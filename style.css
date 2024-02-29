@@ -1,0 +1,36 @@
+.logo {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.text {
+    text-align: center;
+    color: white;
+}
+body {
+    font-family: Comic Sans MS;
+    background-color: lightslategray;
+}
+header {
+    background-color: lightgray;
+    border-radius: 15px;
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+    color: lightslategray;
+    padding-right: 60px;
+    font-size: 24px;
+}
+.navi {    
+    text-align: center;
+}
+.navigation {
+    text-align: center;
+}
+footer {
+    background-color: lightgrey;
+    border-radius: 10px;
+    padding: 5px;
+}
